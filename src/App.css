@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color: white;
+}
+
+.Calculator {
+  background-color: #484f5e;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.Products{
+  height: 300px;
+  overflow-y: scroll;
+  background-color: #7885a1;
+}
+
+.App-link {
+  color: #101114;
+}
